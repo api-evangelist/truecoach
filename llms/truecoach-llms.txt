@@ -1,0 +1,227 @@
+# TrueCoach Help Center
+
+> Help center for TrueCoach
+
+## Account Settings & FAQs
+
+- [Bulk Importing Clients](http://help.truecoach.co/en/articles/3835017-bulk-importing-clients.md): TrueCoach can help bulk import your clients with a CSV file
+- [New Designs Changes to the Client App!](http://help.truecoach.co/en/articles/6222447-new-designs-changes-to-the-client-app.md): We've made some thoughtful changes to the client app.
+- [Welcome to TrueCoach](http://help.truecoach.co/en/articles/3053725-welcome-to-truecoach.md): Let's take a quick look around!
+- [TrueCoach Referral Program](http://help.truecoach.co/en/articles/6384679-truecoach-referral-program.md)
+- [Mastering the Basics Webinar](http://help.truecoach.co/en/articles/3203830-mastering-the-basics-webinar.md): Everything you need to know about your TrueCoach account
+- [Partner Perks in TrueCoach](http://help.truecoach.co/en/articles/5072339-partner-perks-in-truecoach.md): Designed to give you and your clients insider access to the best deals on brands you know and trust.
+- [Unsubscribe from TrueCoach Emails](http://help.truecoach.co/en/articles/4343265-unsubscribe-from-truecoach-emails.md): How to unsubscribe from TrueCoach content emails
+- [Adjusting your TrueCoach Plan](http://help.truecoach.co/en/articles/2403700-adjusting-your-truecoach-plan.md): Can I change my plan at any time?
+- [Coach's Notification Settings](http://help.truecoach.co/en/articles/2403627-coach-s-notification-settings.md): Customize the type and frequency of the notifications you receive
+- [Client Workout Visibility](http://help.truecoach.co/en/articles/3047464-client-workout-visibility.md): Is there a way for me to control how many workouts my client can see?
+- [Changing Your Password](http://help.truecoach.co/en/articles/2393520-changing-your-password.md): Forgot your password? No biggie, set a new one!
+- [Enhanced Custom Theming](http://help.truecoach.co/en/articles/2393617-enhanced-custom-theming.md): Can I white-label my TrueCoach account?
+- [Cancel a Coach Account](http://help.truecoach.co/en/articles/2393585-cancel-a-coach-account.md): Need to cancel? Here's how:
+- [Client Edit Workout Date](http://help.truecoach.co/en/articles/9099523-client-edit-workout-date.md): Enable the ability for clients to move their workouts to any date
+- [TrueCoach Supported Web Browsers and Devices](http://help.truecoach.co/en/articles/4857023-truecoach-supported-web-browsers-and-devices.md): Browsers and devices TrueCoach runs on
+- [Is TrueCoach HIPAA Compliant?](http://help.truecoach.co/en/articles/4821090-is-truecoach-hipaa-compliant.md)
+- [TrueCoach Pricing](http://help.truecoach.co/en/articles/2393527-truecoach-pricing.md): How much does TrueCoach cost?
+- [All About the TrueCoach Android App](http://help.truecoach.co/en/articles/4216894-all-about-the-truecoach-android-app.md): Everything you need to know about our Android app for clients.
+- [Add TrueCoach to your Home Screen](http://help.truecoach.co/en/articles/2393599-add-truecoach-to-your-home-screen.md)
+- [Cost to Clients](http://help.truecoach.co/en/articles/2403968-cost-to-clients.md): Do my clients have to pay to use TrueCoach?
+- [TrueCoach From the Client View](http://help.truecoach.co/en/articles/2919311-truecoach-from-the-client-view.md): How to create and switch between a coach and client account on the same email!
+- [TrueCoach and International Languages](http://help.truecoach.co/en/articles/2393524-truecoach-and-international-languages.md): Is TrueCoach available in other languages?
+
+## TrueCoach Client Tutorials
+
+- [\[Client\] Uploading Progress Pictures](http://help.truecoach.co/en/articles/6812443-client-uploading-progress-pictures.md): How to upload progress pictures to your profile.
+- [\[Client\] Troubleshooting Video Sound Issues](http://help.truecoach.co/en/articles/5128068-client-troubleshooting-video-sound-issues.md): Steps to troubleshoot when you cannot hear sound on a video your coach sent you.
+- [\[Client\] Creating an Email Alias](http://help.truecoach.co/en/articles/4816640-client-creating-an-email-alias.md): How to create an Email Alias for multiple client accounts
+- [Best Practices for Client Video Uploading](http://help.truecoach.co/en/articles/3363353-best-practices-for-client-video-uploading.md): Is your client having difficulty uploading videos to their workouts?
+- [\[Client\] Transferring to a New Coach](http://help.truecoach.co/en/articles/2653779-client-transferring-to-a-new-coach.md): I'm switching coaches, can I take my workout history with me?
+- [\[Client\] Exporting Workouts](http://help.truecoach.co/en/articles/2653729-client-exporting-workouts.md): Can I export my workout information?
+- [\[Client\] Updating a Metric](http://help.truecoach.co/en/articles/2641737-client-updating-a-metric.md): How to update a metric from your profile and a workout on the web app and iOS
+- [\[Client\] In-App Timers](http://help.truecoach.co/en/articles/4409323-client-in-app-timers.md): How to use the timer features on iOS and Android for clients
+- [\[Client\] Updating Nutrition Goals](http://help.truecoach.co/en/articles/2632221-client-updating-nutrition-goals.md): If your coach set nutrition goals for you, log your results on your account!
+- [\[Client\] Updating Bodyweight](http://help.truecoach.co/en/articles/2653124-client-updating-bodyweight.md): How to update bodyweight from your profile on both the web app and iOS app
+- [\[Client\] Uploading a Video to a Workout](http://help.truecoach.co/en/articles/2580531-client-uploading-a-video-to-a-workout.md): How to upload a video to your workouts for your coach to see
+- [\[Client\] Exercise History](http://help.truecoach.co/en/articles/2403762-client-exercise-history.md): How can my clients see past workouts?
+- [\[Client\] Sharing Workouts to Social Media](http://help.truecoach.co/en/articles/2403821-client-sharing-workouts-to-social-media.md): If you don't post about it, did it happen?
+- [\[Client\] Changing my Workout Schedule](http://help.truecoach.co/en/articles/9099548-client-changing-my-workout-schedule.md): My coach has assigned workouts on specific days, but what if life gets in the way?
+- [\[Client\] Accessing my TrueCoach Account for the First Time](http://help.truecoach.co/en/articles/2950800-client-accessing-my-truecoach-account-for-the-first-time.md): New to TrueCoach? Here’s how to log in from your invitation email!
+- [\[Client\] TrueCoach Tutorial](http://help.truecoach.co/en/articles/2632440-client-truecoach-tutorial.md): How to use TrueCoach as a client
+- [\[Client\] How to Download the TrueCoach Android App](http://help.truecoach.co/en/articles/4216578-client-how-to-download-the-truecoach-android-app.md): The TrueCoach Android app is in beta testing. Learn what that means and how to get your hands on the app today!
+- [\[Client\] Email Notifications](http://help.truecoach.co/en/articles/2572023-client-email-notifications.md): How to adjust email notifications from TrueCoach
+- [\[Client\] Changing Your Password](http://help.truecoach.co/en/articles/2580501-client-changing-your-password.md): How to update/change your password from a client account
+
+## Managing Clients
+
+- [Creating an Onboarding Sequence](http://help.truecoach.co/en/articles/3889427-creating-an-onboarding-sequence.md): Use TrueCoach to create a program to welcome new clients.
+- [Resend Email Verification \[Coach\]](http://help.truecoach.co/en/articles/6705087-resend-email-verification-coach.md): How to resend your client a new email verification email
+- [The TrueCoach Client Experience](http://help.truecoach.co/en/articles/2403707-the-truecoach-client-experience.md): You've seen TrueCoach as a coach, but what will your clients see?
+- [Tracking your Clients' Daily Nutrition Logs](http://help.truecoach.co/en/articles/4919027-tracking-your-clients-daily-nutrition-logs.md): How to track your clients' food intake beyond macro values
+- [Using TrueCoach for Nutrition Clients](http://help.truecoach.co/en/articles/3047504-using-truecoach-for-nutrition-clients.md): A collection of ideas on how to use programs, metrics, and workouts to track nutrition along with regular training
+- [How to Export Clients](http://help.truecoach.co/en/articles/5811721-how-to-export-clients.md): How to export clients and their information
+- [Managing Your Clients](http://help.truecoach.co/en/articles/2403919-managing-your-clients.md): Using the Client Dashboard
+- [Adding a New Client](http://help.truecoach.co/en/articles/2403903-adding-a-new-client.md): Setting Up a New Client in TrueCoach
+- [Client Types](http://help.truecoach.co/en/articles/2393270-client-types.md): What is the difference between remote, dual, and in-person clients?
+- [How to Edit Client Type](http://help.truecoach.co/en/articles/4779705-how-to-edit-client-type.md): Need to update a Client Type setting? Here's how!
+- [Client Grouping](http://help.truecoach.co/en/articles/3047874-client-grouping.md): How to set up and use client groups
+- [Compliance Rates](http://help.truecoach.co/en/articles/2403738-compliance-rates.md): What are they and how are they calculated?
+- [Client Due Dates](http://help.truecoach.co/en/articles/3047881-client-due-dates.md): Why does it say my clients are past due?
+- [Archived Clients](http://help.truecoach.co/en/articles/2403954-archived-clients.md): How do I archive a client and what happens when I do?
+- [Deleting a Client](http://help.truecoach.co/en/articles/2695325-deleting-a-client.md): How to permanently delete a client instead of archiving
+- [TrueCoach In-App Timer](http://help.truecoach.co/en/articles/4417140-truecoach-in-app-timer.md): Learn all about the stopwatch, timer, and interval timer features!
+- [Client Invitation Email](http://help.truecoach.co/en/articles/2403930-client-invitation-email.md): What to do if a new client doesn't receive their email invitation to the app
+- [Updating A Client's Email Address](http://help.truecoach.co/en/articles/2403901-updating-a-client-s-email-address.md): Why can't I update a client's email address?
+
+## The Workout Calendar & Sidebar
+
+- [Overview: Calendar Tools](http://help.truecoach.co/en/articles/3564736-overview-calendar-tools.md): How to use all of the tools in TrueCoach to help build efficiency while working with your clients.
+- [Waivers, Questionnaires, Assessments and Check-in's](http://help.truecoach.co/en/articles/3363240-waivers-questionnaires-assessments-and-check-in-s.md): Looking to assign activities for your clients other than workouts?
+- [Jumper Tool](http://help.truecoach.co/en/articles/3347532-jumper-tool.md): A tool that allows you to quickly and efficiently switch between clients
+- [Copying and Pasting Workouts](http://help.truecoach.co/en/articles/3047914-copying-and-pasting-workouts.md)
+- [Dragging and Dropping Workouts](http://help.truecoach.co/en/articles/3047930-dragging-and-dropping-workouts.md): Move a client's workouts as their plans change
+- [Selecting Multiple Workouts to Copy/paste or Drag/drop](http://help.truecoach.co/en/articles/3053660-selecting-multiple-workouts-to-copy-paste-or-drag-drop.md): How to easily select multiple workouts on a calendar or program
+- [Assigning Multiple Workouts in One Day](http://help.truecoach.co/en/articles/3047936-assigning-multiple-workouts-in-one-day.md): Got your clients on two-a-days? Not a problem!
+- [Entering Results for Dual or In-person Clients](http://help.truecoach.co/en/articles/3047948-entering-results-for-dual-or-in-person-clients.md): You can enter workout results for both dual and in-person clients right from the workout calendar!
+- [Reduce Clutter with the 'Truncate' Button](http://help.truecoach.co/en/articles/3047966-reduce-clutter-with-the-truncate-button.md): More room for activities!
+- [Hiding a Workout From a Client](http://help.truecoach.co/en/articles/2393307-hiding-a-workout-from-a-client.md): How to control which workouts your dual clients can view on their TrueCoach accounts
+- [The Workout Builder Basics](http://help.truecoach.co/en/articles/3047972-the-workout-builder-basics.md): Basic navigation and common tasks within the workout builder
+- [Quick Guide to TrueCoach's Keyboard Shortcuts](http://help.truecoach.co/en/articles/3047997-quick-guide-to-truecoach-s-keyboard-shortcuts.md): A full list of all the keyboard shortcuts built-in to TrueCoach
+- [Creating a Superset](http://help.truecoach.co/en/articles/2403842-creating-a-superset.md): How to superset multiple exercises in TrueCoach
+- [Deleting a Rest Day](http://help.truecoach.co/en/articles/3047892-deleting-a-rest-day.md): How to get rid of unwanted rest days
+- [Exercise History Search](http://help.truecoach.co/en/articles/3047190-exercise-history-search.md): Quick search for past exercise history and results
+- [Exporting Workouts](http://help.truecoach.co/en/articles/3047247-exporting-workouts.md): How do I export my client's workouts?
+- [Adding Reminders](http://help.truecoach.co/en/articles/3047300-adding-reminders.md): Never forget your client's competition dates or vacations again!
+- [Planning Tool](http://help.truecoach.co/en/articles/3047315-planning-tool.md): How to use the planning/skeleton tool in the sidebar
+- [Nutrition Tracking](http://help.truecoach.co/en/articles/3047252-nutrition-tracking.md): What nutrition features does TrueCoach offer?
+
+## Library
+
+- [Video Overview: The Library](http://help.truecoach.co/en/articles/3564727-video-overview-the-library.md): How to save videos, warm-ups/cool-downs, metric sets and documents to your library to use over and over again!
+- [Adding Demo Videos to Workouts & the Library](http://help.truecoach.co/en/articles/2403878-adding-demo-videos-to-workouts-the-library.md)
+- [Playing Vimeo Videos in the App](http://help.truecoach.co/en/articles/2531894-playing-vimeo-videos-in-the-app.md): Make sure your privacy settings allow TrueCoach to play your videos
+- [Warm Ups and Cooldowns](http://help.truecoach.co/en/articles/2403667-warm-ups-and-cooldowns.md): Saving the warmups and cooldowns you use most with your clients
+- [Sharing Documents and Files](http://help.truecoach.co/en/articles/3047381-sharing-documents-and-files.md): How to share miscellaneous files/images with your clients
+- [How to compress your videos for easier uploads](http://help.truecoach.co/en/articles/6179832-how-to-compress-your-videos-for-easier-uploads.md): Some best practices for seamless video uploads
+- [Linking Metrics to Workouts](http://help.truecoach.co/en/articles/2393419-linking-metrics-to-workouts.md): Have your remote or dual clients update their metrics from a specific workout
+- [Metrics](http://help.truecoach.co/en/articles/3047471-metrics.md): What are metrics and how do I use them?
+- [Metrics: Targets](http://help.truecoach.co/en/articles/3047863-metrics-targets.md): How to add fixed or calculated targets to your client's metrics
+- [Updating Metrics](http://help.truecoach.co/en/articles/3047875-updating-metrics.md): How do I update a metric?
+
+## Programs
+
+- [Program Tagging](http://help.truecoach.co/en/articles/5164615-program-tagging.md): Everything you need to know about the program tagging feature
+- [Creating a Program from the Client Workout Calendar](http://help.truecoach.co/en/articles/4753812-creating-a-program-from-the-client-workout-calendar.md): Did you just create a programming masterpiece in a client's workout calendar and now you want to save it as a program? We got you covered🎉
+- [Sample Programs Ideas](http://help.truecoach.co/en/articles/4869975-sample-programs-ideas.md): Check out these creative ways to use the Programs feature!
+- [Private Programs for Team Accounts](http://help.truecoach.co/en/articles/3182015-private-programs-for-team-accounts.md): Limit which programs non-admin coaches on your account can see.
+- [Programs](http://help.truecoach.co/en/articles/3047401-programs.md): How to create and assign Programs and how 'Sync' works
+- [Duplicate Programs](http://help.truecoach.co/en/articles/3047412-duplicate-programs.md): Is your client seeing multiple of the same workouts in the same day?
+- [Printing a Program](http://help.truecoach.co/en/articles/2393507-printing-a-program.md): Want to export or print out a program you've written? No problemo
+- [Un-assigning a Program](http://help.truecoach.co/en/articles/2393383-un-assigning-a-program.md): Easily remove a program from a client's workout calendar
+- [Sync Program Changes](http://help.truecoach.co/en/articles/4555142-sync-program-changes.md): Everything you need to know about the sync program changes feature.
+- [Habit Tracking Feature](http://help.truecoach.co/en/articles/8399883-habit-tracking-feature.md): How to set up habits for your clients to keep them accountable & on track!
+- [Advanced Habit & Nutrition Tracking](http://help.truecoach.co/en/articles/9675861-advanced-habit-nutrition-tracking.md): Track your clients' macros, weight, energy, sentiment, and more with our advanced Habit Tracker.
+
+## Transfers and Team Accounts
+
+- [Team Accounts](http://help.truecoach.co/en/articles/2403964-team-accounts.md): How do I add other coaches to my account and how does it work?
+- [How to Transfer Team Ownership](http://help.truecoach.co/en/articles/4779748-how-to-transfer-team-ownership.md): Changes happen and you may wish to leave your current organization. Here's how to transfer your ownership to another coach!
+- [Transferring Coach Accounts](http://help.truecoach.co/en/articles/2393629-transferring-coach-accounts.md): How can I add a coach to my Team if they have an existing TrueCoach account?
+- [Transferring Client Accounts](http://help.truecoach.co/en/articles/2393611-transferring-client-accounts.md): How to transfer a client to another coach in or outside your organization
+- [Joining a Team Account](http://help.truecoach.co/en/articles/4779155-joining-a-team-account.md): You're teaming up and joining an organization, but what does this exactly mean for you?
+
+## The TrueCoach App
+
+- [Messaging Your Clients in the App](http://help.truecoach.co/en/articles/8421395-messaging-your-clients-in-the-app.md): A guide to messaging your clients on the mobile app TrueCoach by Xplor
+- [Switching between coach & client accounts](http://help.truecoach.co/en/articles/8421321-switching-between-coach-client-accounts.md): How to quickly switch between account types
+- [Notification Settings in the Mobile App](http://help.truecoach.co/en/articles/8425762-notification-settings-in-the-mobile-app.md): Enable your push notifications to receive updates from your clients!
+- [TrueCoach App - For Coaches & Clients](http://help.truecoach.co/en/articles/8421397-truecoach-app-for-coaches-clients.md): The new TrueCoach App has launched! This is an app designed for both coaches & clients. Available for iOS and Android.
+
+## Payments
+
+- [TrueCoach Payments](http://help.truecoach.co/en/articles/3497458-truecoach-payments.md): Accepting client payments through TrueCoach
+- [Statement Descriptors](http://help.truecoach.co/en/articles/3906680-statement-descriptors.md): How do I avoid clients disputing a charge?
+- [Payouts](http://help.truecoach.co/en/articles/3491564-payouts.md): Show me the money!
+- [How to Migrate to TrueCoach Payments](http://help.truecoach.co/en/articles/3491540-how-to-migrate-to-truecoach-payments.md): Already running a separate payments processing platform alongside TrueCoach to collect payments from your clients?
+- [Negative Payouts](http://help.truecoach.co/en/articles/3491570-negative-payouts.md): Why is my payout number in parentheses?
+- [Team Account Payments](http://help.truecoach.co/en/articles/3491582-team-account-payments.md): Can coaches on my team use Payments?
+- [Applying Discounts to Subscriptions](http://help.truecoach.co/en/articles/3483354-applying-discounts-to-subscriptions.md): How do I add a discount or coupon code to a client's subscription?
+- [Billing Frequency](http://help.truecoach.co/en/articles/3483326-billing-frequency.md): What billing cycles are available for your clients?
+- [Payments from Client View](http://help.truecoach.co/en/articles/3491674-payments-from-client-view.md): What do my clients see?
+- [One-Time Payments](http://help.truecoach.co/en/articles/9465405-one-time-payments.md): One-Time Payments are here!
+- [Automatic Billing](http://help.truecoach.co/en/articles/3483351-automatic-billing.md): Creating auto-renewing payments for your clients
+- [Canceling Subscriptions](http://help.truecoach.co/en/articles/3483345-canceling-subscriptions.md): How to cancel a client's subscription
+- [Creating a Subscription](http://help.truecoach.co/en/articles/3483339-creating-a-subscription.md): Start taking payments from your clients
+- [Delinquent Clients](http://help.truecoach.co/en/articles/3491682-delinquent-clients.md): When clients don't pay on time...
+- [Editing Subscriptions](http://help.truecoach.co/en/articles/3491646-editing-subscriptions.md): Once I have created a subscription for my client, how do I change it?
+- [Subscriptions Overview and FAQ](http://help.truecoach.co/en/articles/3491618-subscriptions-overview-and-faq.md): Everything you need to know about subscriptions
+- [Subscription Statuses](http://help.truecoach.co/en/articles/3491641-subscription-statuses.md): What does "trialing" mean?
+- [Applying Tax to a Subscription](http://help.truecoach.co/en/articles/3483341-applying-tax-to-a-subscription.md): Charging your clients sales tax
+- [Archiving Products and Pricing Plans](http://help.truecoach.co/en/articles/3483338-archiving-products-and-pricing-plans.md): Need to delete a Product or Pricing Plan?
+- [How to Update Your Bank Account or Card Information](http://help.truecoach.co/en/articles/4779779-how-to-update-your-bank-account-or-card-information.md)
+- [Connecting to Stripe](http://help.truecoach.co/en/articles/3491554-connecting-to-stripe.md): A step by step guide to making sure you get paid
+- [Products, Pricing Plans, and Subscriptions](http://help.truecoach.co/en/articles/3491622-products-pricing-plans-and-subscriptions.md): Three easy steps to start charging your clients through TrueCoach Payments
+- [Splitting Client Payments](http://help.truecoach.co/en/articles/3483356-splitting-client-payments.md): How do I split my client's payment?
+- [Prorating Subscriptions](http://help.truecoach.co/en/articles/3483343-prorating-subscriptions.md): Let's math
+- [Disputes](http://help.truecoach.co/en/articles/3483334-disputes.md): My client has disputed a charge, what do I do?
+- [Failed Payments](http://help.truecoach.co/en/articles/3491678-failed-payments.md): Uh-oh! What happens when clients' payments fail?
+- [Issuing Refunds](http://help.truecoach.co/en/articles/3491679-issuing-refunds.md): How do I refund my client's payment?
+- [TrueCoach Payments: International Release](http://help.truecoach.co/en/articles/3499991-truecoach-payments-international-release.md): Why can't I use Payments? When will it be available internationally?
+- [Payments Notifications](http://help.truecoach.co/en/articles/3483335-payments-notifications.md): How do you and your clients keep up with billing activity?
+- [Subscriptions Quick FAQs](http://help.truecoach.co/en/articles/3483347-subscriptions-quick-faqs.md): A quick guide to the most important questions about subscriptions.
+- [Understanding Invoices](http://help.truecoach.co/en/articles/3483358-understanding-invoices.md)
+- [Understanding Processing Fees](http://help.truecoach.co/en/articles/3491685-understanding-processing-fees.md): All about Stripe processing fees
+- [Coach Email Verification](http://help.truecoach.co/en/articles/5423232-coach-email-verification.md): Verify your email with TrueCoach
+- [Email Verification Information](http://help.truecoach.co/en/articles/5538868-email-verification-information.md): Everything you need to know about email verification for your clients
+- [How does an in-person client verify their email address?](http://help.truecoach.co/en/articles/5539664-how-does-an-in-person-client-verify-their-email-address.md): This article describes how to verify an in-person client's email address so that you can add a subscription to their profile
+- [\[Client\] How to verify my email address?](http://help.truecoach.co/en/articles/5538772-client-how-to-verify-my-email-address.md): A step by step guide on how to verify your email address
+
+## Case Studies
+
+- [Remote Coaching: Groups](http://help.truecoach.co/en/articles/3953285-remote-coaching-groups.md): Marcus Filly and his brainchild "Revival Strength" work with large groups of clients crushing programming together.
+- [Hybrid Coaching](http://help.truecoach.co/en/articles/3953307-hybrid-coaching.md): Balancing remote individual and in-person group programming with Koda CrossFit.
+- [Remote and In-Person Coaching](http://help.truecoach.co/en/articles/3953322-remote-and-in-person-coaching.md): Learn how CrossFit Milford's Jason Leydon provides coaching to all different client types.
+- [Technique Based Coaching](http://help.truecoach.co/en/articles/3953329-technique-based-coaching.md): Learn to provide technique feedback through TrueCoach from the best: Chad Vaughn.
+- [Multiple Facilities](http://help.truecoach.co/en/articles/3953319-multiple-facilities.md): How UFIT Singapore runs 5 locations with multiple products all powered by TrueCoach.
+- [High School Sports](http://help.truecoach.co/en/articles/4143126-high-school-sports.md): TrueCoach as only "a platform to deliver workouts" - not to Mitch Davis and his high school athletes
+
+## MyFitnessPal
+
+- [\[Client\] Updating Goals in MyFitnessPal](http://help.truecoach.co/en/articles/5416966-client-updating-goals-in-myfitnesspal.md): How to update Nutrition Goals in your MyFitnessPal Account
+- [MyFitnessPal Integration](http://help.truecoach.co/en/articles/4174118-myfitnesspal-integration.md): Everything you need to know about the TrueCoach / MyFitnessPal relationship
+- [MyFitnessPal Data Sync Issues](http://help.truecoach.co/en/articles/4873644-myfitnesspal-data-sync-issues.md): The latest updates on ongoing MyFitnessPal data syncing issues
+- [\[Client\] MyFitnessPal Set Up](http://help.truecoach.co/en/articles/4173572-client-myfitnesspal-set-up.md): How to connect your MyFitnessPal account to TrueCoach.
+- [\[Client\] MyFitnessPal Troubleshooting](http://help.truecoach.co/en/articles/4173740-client-myfitnesspal-troubleshooting.md): Settings to check when MyFitnessPal and TrueCoach aren't talking to each other
+
+## Success with TrueCoach: Online & Off
+
+- [Core Values: How to Stand Out in the Crowd](http://help.truecoach.co/en/articles/5635220-core-values-how-to-stand-out-in-the-crowd.md): part 1 of the "Building Success, Online & Off" series
+
+## Coach Profile
+
+- [Coach Public Profile Feature](http://help.truecoach.co/en/articles/10827765-coach-public-profile-feature.md): Let's get those leads flowing in! Here is all you need to know to get your Public Coach Profile set up on TrueCoach.
+
+## Messaging
+
+- [Create a group message](http://help.truecoach.co/en/articles/8156768-create-a-group-message.md): Learn how to create a group message with your clients, coaches, or both!
+- [Invite or remove group members](http://help.truecoach.co/en/articles/8156202-invite-or-remove-group-members.md): Group Messaging - How to invite or remove members to the group message
+- [Edit Your Message Title](http://help.truecoach.co/en/articles/8156158-edit-your-message-title.md): Edit your group message title and settings.
+- [Deleting a message](http://help.truecoach.co/en/articles/8156154-deleting-a-message.md): How to delete sent messages in a flash!
+- [Group Messages on the Client App](http://help.truecoach.co/en/articles/8156553-group-messages-on-the-client-app.md): Group message mobile experience
+- [Messaging Your Clients](http://help.truecoach.co/en/articles/2403915-messaging-your-clients.md): Communicating with clients 1-on-1, a group, or to everybody simultaneously
+- [Voice Notes Messaging](http://help.truecoach.co/en/articles/13861965-voice-notes-messaging.md): Another way to communicate with your clients through the messaging feature is here!
+
+## Wearables
+
+- [\[Client\] Connecting and Viewing Wearables](http://help.truecoach.co/en/articles/8800819-client-connecting-and-viewing-wearables.md): How to connect and view wearables as a client
+- [Viewing your Clients' Wearables Data](http://help.truecoach.co/en/articles/8800960-viewing-your-clients-wearables-data.md): How to see wearables data as a coach
+- [Wearables FAQ](http://help.truecoach.co/en/articles/8417196-wearables-faq.md): Frequently Asked Questions about the Wearables Integration.
+- [Wearables Have Arrived!](http://help.truecoach.co/en/articles/8944578-wearables-have-arrived.md): Everything you need to know about Wearables in TrueCoach
+
+## Zapier + TrueCoach
+
+- [Zapier Integration](http://help.truecoach.co/en/articles/8688374-zapier-integration.md)
+- [Workflow Automations: Onboarding Emails](http://help.truecoach.co/en/articles/9945315-workflow-automations-onboarding-emails.md): Send emails in Gmail for new clients in TrueCoach
+
+## NASM Subscription
+
+- [Setting up your NASM subscription.](http://help.truecoach.co/en/articles/9146389-setting-up-your-nasm-subscription.md): How to connect to the NASM CEU Library through TrueCoach.
+- [NASM CEU Library](http://help.truecoach.co/en/articles/8688386-nasm-ceu-library.md): What is the NASM CEU Library and why should you subscribe through TrueCoach?
+- [NASM CEU Library FAQs](http://help.truecoach.co/en/articles/9146374-nasm-ceu-library-faqs.md): Some of the most asked questions for the NASM subscription through TrueCoach.

@@ -1,8 +1,28 @@
 aid: truecoach
 name: TrueCoach
-description: TrueCoach is a company surfaced as a portfolio company of techstars and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  TrueCoach is a personal-training and remote-coaching platform for strength
+  coaches, personal trainers, and physical therapists to deliver workouts
+  online and train clients remotely. Started as Fitbot out of Techstars
+  Boulder and now an Xplor Technologies brand, it offers a web app plus iOS
+  and Android client apps with program and workout builders, a video exercise
+  library, nutrition tracking, wearables data, Stripe-powered payments, a
+  MyFitnessPal integration, and a Zapier connector — but publishes no public
+  developer API.
 url: https://raw.githubusercontent.com/api-evangelist/truecoach/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: self-serve
+  trial: false
+  try_now: false
+  public: false
+  label: Self-serve signup
+  confidence: medium
+  source:
+  - authentication
+  generated: '2026-07-22'
+  method: derived
+image: https://avatars.githubusercontent.com/u/20093918?v=4
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Fitness
+- Personal Training
+- Coaching
+- Workouts
+- Nutrition
+- Health
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,34 @@ maintainers:
 common:
 - type: Website
   url: https://truecoach.co/
+- type: Support
+  url: https://help.truecoach.co/
+- type: Blog
+  url: https://truecoach.co/blog/
+- type: Pricing
+  url: https://truecoach.co/pricing/
+- type: SignUp
+  url: https://app.truecoach.co/sign-up/
+- type: Login
+  url: https://app.truecoach.co/login/
+- type: TermsOfService
+  url: https://www.xplortechnologies.com/us/truecoach-terms-service
+- type: PrivacyPolicy
+  url: https://www.xplortechnologies.com/us/privacy-notice
+- type: GitHubOrganization
+  url: https://github.com/truecoach
+- type: Authentication
+  url: authentication/truecoach-authentication.yml
+- type: LLMsTxt
+  url: llms/truecoach-llms.txt
+- type: WellKnown
+  url: well-known/truecoach-well-known.yml
+- type: Conformance
+  url: conformance/truecoach-conformance.yml
+- type: DomainSecurity
+  url: security/truecoach-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1

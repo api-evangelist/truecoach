@@ -1,0 +1,92 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for every TrueCoach
+  host (marketing site, app, API, wearables API, help center). Status is the
+  HTTP code observed at fetch time. app.truecoach.co is an Ember SPA
+  (fitbot-client) that answers 200 with a text/html shell for every path, so
+  those are recorded as present-but-not-a-real-document and not saved.
+  help.truecoach.co is hosted on Intercom; its security.txt is Intercom's own
+  platform file (third-party), and its llms.txt is the real TrueCoach Help
+  Center index, saved verbatim to llms/truecoach-llms.txt.
+hosts:
+  - host: https://truecoach.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /llms.txt
+        status: 404
+  - host: https://app.truecoach.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 200
+        type: text/html
+        note: SPA shell (Ember catch-all route), not a real security.txt; not saved.
+      - path: /.well-known/openid-configuration
+        status: 200
+        type: text/html
+        note: SPA shell, not a real OIDC discovery document; not saved.
+      - path: /.well-known/oauth-authorization-server
+        status: 200
+        type: text/html
+        note: SPA shell, not a real document; not saved.
+      - path: /.well-known/api-catalog
+        status: 200
+        type: text/html
+        note: SPA shell, not a real API catalog; not saved.
+      - path: /.well-known/ai-plugin.json
+        status: 200
+        type: text/html
+        note: SPA shell, not a real ai-plugin manifest; not saved.
+      - path: /llms.txt
+        status: 200
+        type: text/html
+        note: SPA shell, not a real llms.txt; not saved.
+  - host: https://api.truecoach.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+  - host: https://wearables.truecoach.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+  - host: https://help.truecoach.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 200
+        type: text/plain
+        third_party: intercom
+        note: >-
+          Intercom's platform security.txt (Contact: security@intercom.com,
+          bugcrowd.com/intercom), served because the help center is hosted on
+          Intercom. Not a TrueCoach vulnerability-disclosure program, so not
+          claimed as the provider's SecurityTxt.
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /llms.txt
+        status: 200
+        type: text/plain
+        file: ../llms/truecoach-llms.txt
+        note: Real TrueCoach Help Center llms.txt index; saved verbatim.

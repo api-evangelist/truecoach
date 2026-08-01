@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Industry / cross-cutting standards posture for TrueCoach, from the provider's
+  own published statements. TrueCoach publishes no developer API, no OpenAPI,
+  and no formal compliance/trust program, so only explicitly documented claims
+  are recorded. Empty/negative findings are valid data.
+standards:
+  - id: hipaa
+    conforms: false
+    evidence: >-
+      Help Center article "Is TrueCoach HIPAA Compliant?" states verbatim: "At
+      this time, TrueCoach is not HIPAA compliant."
+      (https://help.truecoach.co/en/articles/4821090-is-truecoach-hipaa-compliant)
+  - id: oauth2
+    conforms: false
+    evidence: >-
+      No published OAuth 2.0 authorization surface for third parties; the only
+      documented programmatic access is a per-account API key for the Zapier
+      connector (https://help.truecoach.co/en/articles/8688374-zapier-integration).
